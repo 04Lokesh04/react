@@ -1,0 +1,161 @@
+/* Write your CSS here */
+.main {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 15%;
+  background-size: cover;
+  width: 100%;
+  border: 0px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.heading1 {
+  color: #1e293b;
+  font-size: 30px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+
+.para1 {
+  color: #1e293b;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.span1 {
+  color: #0b69ff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+
+.card2 {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card3 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.section1 {
+  background-color: #ffffff;
+  width: 50%;
+  height: 100%;
+  border: 0px;
+  border-radius: 10px;
+  box-shadow: #d7dfe9;
+  padding: 15px;
+}
+
+.section2 {
+  background-color: #ffffff;
+  width: 50%;
+  height: 100%;
+  border: 0px;
+  border-radius: 10px;
+  box-shadow: #d7dfe9;
+  padding: 15px;
+}
+
+.formDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.heading3 {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.label {
+  color: #7e858e;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.titleclass {
+  background-color: transparent;
+  border: 1px solid #7e858e;
+  height: 50px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.amountclass {
+  background-color: transparent;
+  border: 1px solid #7e858e;
+  height: 50px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.selectclass {
+  background-color: transparent;
+  border: 1px solid #7e858e;
+  font-size: 12px;
+  height: 50px;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.option {
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+
+.heading4 {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.history {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #7e858e;
+  height: 100%;
+  width: 100%;
+}
+
+.transactionHistory {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.historypara {
+  color: #475569;
+  font-size: 15px;
+  font-family: Roboto;
+  margin-bottom: 10px;
+}
+
+.button1 {
+  color: #ffffff;
+  background-color: #0b69ff;
+  height: 50px;
+  width: 90px;
+  border: 0px;
+  border-radius: 10px;
+}

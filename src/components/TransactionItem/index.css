@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  border-top: 1px;
+  border-bottom: 1px;
+  border-color: #cbd5e1;
+  list-style-type: none;
+}
+
+.para {
+  color: #7e858e;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+
+.button {
+  background-color: transparent;
+  height: 50px;
+  width: 50px;
+  border: 0px;
+}
+
+.image {
+  height: 35px;
+  width: 35px;
+}
